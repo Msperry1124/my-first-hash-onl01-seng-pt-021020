@@ -14,11 +14,10 @@ end
 
 
 def retrieval
-hash = {"key1" => "value1"}
-hash["key1"]
+
 end
 
 def adding
-  hash = {"key1" => "value1"}
+
 
 end
