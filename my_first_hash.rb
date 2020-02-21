@@ -8,7 +8,7 @@ end
 
 
 def shipping_manifest
-the_manifest = {"shipping_manifest"}
+the_manifest = "shipping_manifest"
 
 end
 
